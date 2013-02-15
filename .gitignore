@@ -1,4 +1,5 @@
-
+node_modules
+.report.txt
 rom.z64
 
 .DS_Store

@@ -1,0 +1,18 @@
+{
+    "name":         "n64js",
+    "version":      "0.0.1",
+    "description":  "A javascript emulator for n64.",
+    "repository":   {
+        "type": "git",
+        "url":  "git://github.com/hulkholden/n64js.git"
+    },
+    "dependencies": {
+        "grunt":                  "~0.3.17",
+        "grunt-closure-compiler": "~0.0.13"
+    },
+    "keywords":     [
+        "N64",
+        "emulator"
+    ],
+    "author":       "Paul Holden"
+}
